@@ -26,7 +26,7 @@
 }
 
 .debug-box{
-    height: 400px;
+    height: 600px;
     background-color: lightskyblue;
 }
 
@@ -60,12 +60,12 @@ main{
 
 .sidebar{
     width: 25%;
-    height: 400px;
+    height: 600px;
 }
 
 .main-content{
     width: 50%;
-    height: 400px;
+    height: 600px;
 
 }
 
